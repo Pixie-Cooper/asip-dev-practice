@@ -56,4 +56,4 @@ Before running the project, ensure that the following are installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/asip-dev-practice.git
+git clone https://github.com/Pixie-Cooper/asip-dev-practice.git
